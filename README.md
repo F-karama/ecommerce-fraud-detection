@@ -4,7 +4,6 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.x-orange?logo=scikitlearn)
 ![XGBoost](https://img.shields.io/badge/XGBoost-Optimized-success?logo=xgboost)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
@@ -138,4 +137,5 @@ Instead, it serves as a **decision-support tool** to help fraud analysts priorit
 | **Jupyter Notebook**     | Interactive workflow             |
 
 ---
+
 
