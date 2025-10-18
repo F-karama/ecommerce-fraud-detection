@@ -1,4 +1,3 @@
-﻿# ecommerce-fraud-detection
 # 🛍️ E-commerce Fraud Detection
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
@@ -139,3 +138,4 @@ Instead, it serves as a **decision-support tool** to help fraud analysts priorit
 | **Jupyter Notebook**     | Interactive workflow             |
 
 ---
+
